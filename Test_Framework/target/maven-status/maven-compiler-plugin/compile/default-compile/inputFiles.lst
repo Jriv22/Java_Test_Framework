@@ -1,0 +1,11 @@
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/user/User.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/tweet/Tweet.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/tweet/Entities.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/tests/twitterCrud.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/TimeLine.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/TwitterRest.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/page_objects/TwitterHome.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/Helloworld.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/user/Entities_.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/rest/templates/user/Description.java
+/home/stephen/Java/IdeaProjects/Test_Framework/src/main/java/page_objects/TwitterLogin.java
